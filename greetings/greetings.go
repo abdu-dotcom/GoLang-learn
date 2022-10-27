@@ -18,7 +18,7 @@ func Hello(name string) (string, error) {
 
 	// Create a message using a randopm format.
 	// return a greeting that embeds the name in a message.
-	message := fmt.Sprintf(randomFormat(), name)
+	message := fmt.Sprintf(randomFormat())
 	return message, nil
 }
 
