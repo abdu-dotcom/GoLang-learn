@@ -1,8 +1,19 @@
-Go code is grouped into packages, and packages are grouped into modules. 
+- Go code is grouped into packages, and packages are grouped into modules. 
 Your module specifies dependencies needed to run your code, 
 including the Go version and the set of other modules it requires.
 
+- a name is exported if it begins with a capital letter
+
+- a name fuction starts with a loweracase letter, making it accessible 
+only to code in its own package (in other words, it's not exported).
+
 Translate 
-Code dikumpulkan kedalama package dan package dikelompokan kedalam module,
+
+- Code dikumpulkan kedalama package dan package dikelompokan kedalam module,
 Module anda menentukan dependensi yang diperlukan untuk menjalankan code, 
-termasuk versi go dan set modul lain yang diperlukan
+termasuk versi go dan set modul lain yang diperlukan.
+
+- function dapat diekport apabila namanya diawal huruf kapital.
+
+- nama function yang diawali huruf kecil. itu membuat kode mudah diaccess
+hanya di packege itu sendiri.
