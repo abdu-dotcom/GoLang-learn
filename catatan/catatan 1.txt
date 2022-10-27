@@ -17,3 +17,4 @@ termasuk versi go dan set modul lain yang diperlukan.
 
 - nama function yang diawali huruf kecil. itu membuat kode mudah diaccess
 hanya di packege itu sendiri.
+

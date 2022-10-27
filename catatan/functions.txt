@@ -1,0 +1,3 @@
+initialize a map with the following syntax: make(map[key-tpye]value-type)
+
+source about map = https://go.dev/blog/maps
