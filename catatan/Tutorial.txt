@@ -1,0 +1,6 @@
+Create a Go module
+source:  https://go.dev/doc/tutorial/create-module
+
+Call your code from another module
+source: https://go.dev/doc/tutorial/call-module-code
+
